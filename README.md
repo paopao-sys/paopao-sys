@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Currently studying BSIT at Bulacan State University
 <!--
 **paopao-sys/paopao-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
